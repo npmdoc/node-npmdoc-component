@@ -1,9 +1,14 @@
-# api documentation for  [component (v1.1.0)](https://github.com/componentjs/component)  [![npm package](https://img.shields.io/npm/v/npmdoc-component.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-component) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-component.svg)](https://travis-ci.org/npmdoc/node-npmdoc-component)
+# npmdoc-component
+
+#### api documentation for  [component (v1.1.0)](https://github.com/componentjs/component)  [![npm package](https://img.shields.io/npm/v/npmdoc-component.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-component) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-component.svg)](https://travis-ci.org/npmdoc/node-npmdoc-component)
+
 #### Component package manager consuming git repositories
 
-[![NPM](https://nodei.co/npm/component.png?downloads=true)](https://www.npmjs.com/package/component)
+[![NPM](https://nodei.co/npm/component.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/component)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-component/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-component%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-component/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-component/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-component/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-component/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-component/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-component/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "TJ Holowaychuk",
-        "email": "tj@vision-media.ca"
+        "name": "TJ Holowaychuk"
     },
     "bin": {
         "component": "bin/component",
@@ -84,133 +88,101 @@
     "main": "lib/component",
     "maintainers": [
         {
-            "name": "tjholowaychuk",
-            "email": "tj@vision-media.ca"
+            "name": "tjholowaychuk"
         },
         {
-            "name": "jongleberry",
-            "email": "jonathanrichardong@gmail.com"
+            "name": "jongleberry"
         },
         {
-            "name": "dominicbarnes",
-            "email": "dominic@dbarnes.info"
+            "name": "dominicbarnes"
         },
         {
-            "name": "tootallnate",
-            "email": "nathan@tootallnate.net"
+            "name": "tootallnate"
         },
         {
-            "name": "rauchg",
-            "email": "rauchg@gmail.com"
+            "name": "rauchg"
         },
         {
-            "name": "retrofox",
-            "email": "rdsuarez@gmail.com"
+            "name": "retrofox"
         },
         {
-            "name": "coreh",
-            "email": "thecoreh@gmail.com"
+            "name": "coreh"
         },
         {
-            "name": "forbeslindesay",
-            "email": "forbes@lindesay.co.uk"
+            "name": "forbeslindesay"
         },
         {
-            "name": "kelonye",
-            "email": "kelonyemitchel@gmail.com"
+            "name": "kelonye"
         },
         {
-            "name": "mattmueller",
-            "email": "mattmuelle@gmail.com"
+            "name": "mattmueller"
         },
         {
-            "name": "yields",
-            "email": "yields@icloud.com"
+            "name": "yields"
         },
         {
-            "name": "anthonyshort",
-            "email": "antshort@gmail.com"
+            "name": "anthonyshort"
         },
         {
-            "name": "ianstormtaylor",
-            "email": "ian@ianstormtaylor.com"
+            "name": "ianstormtaylor"
         },
         {
-            "name": "cristiandouce",
-            "email": "cristian@gravityonmars.com"
+            "name": "cristiandouce"
         },
         {
-            "name": "swatinem",
-            "email": "arpad.borsos@googlemail.com"
+            "name": "swatinem"
         },
         {
-            "name": "stagas",
-            "email": "gstagas@gmail.com"
+            "name": "stagas"
         },
         {
-            "name": "amasad",
-            "email": "amjad.masad@gmail.com"
+            "name": "amasad"
         },
         {
-            "name": "juliangruber",
-            "email": "julian@juliangruber.com"
+            "name": "juliangruber"
         },
         {
-            "name": "shtylman",
-            "email": "shtylman@gmail.com"
+            "name": "shtylman"
         },
         {
-            "name": "calvinfo",
-            "email": "calvin@calv.info"
+            "name": "calvinfo"
         },
         {
-            "name": "blakeembrey",
-            "email": "hello@blakeembrey.com"
+            "name": "blakeembrey"
         },
         {
-            "name": "timoxley",
-            "email": "secoif@gmail.com"
+            "name": "timoxley"
         },
         {
-            "name": "jonathanong",
-            "email": "jonathanrichardong@gmail.com"
+            "name": "jonathanong"
         },
         {
-            "name": "queckezz",
-            "email": "fabian.eichenberger@gmail.com"
+            "name": "queckezz"
         },
         {
-            "name": "nami-doc",
-            "email": "vendethiel@hotmail.fr"
+            "name": "nami-doc"
         },
         {
-            "name": "clintwood",
-            "email": "clint@anotherway.co.za"
+            "name": "clintwood"
         },
         {
-            "name": "thehydroimpulse",
-            "email": "dnfagnan@gmail.com"
+            "name": "thehydroimpulse"
         },
         {
-            "name": "stephenmathieson",
-            "email": "me@stephenmathieson.com"
+            "name": "stephenmathieson"
         },
         {
-            "name": "trevorgerhardt",
-            "email": "trevorgerhardt@gmail.com"
+            "name": "trevorgerhardt"
         },
         {
-            "name": "timaschew",
-            "email": "timaschew@gmail.com"
+            "name": "timaschew"
         },
         {
-            "name": "jasonkuhrt",
-            "email": "jasonkuhrt@me.com"
+            "name": "jasonkuhrt"
         }
     ],
     "name": "component",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/componentjs/component.git"
@@ -221,16 +193,6 @@
     "version": "1.1.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module component](#apidoc.module.component)
-
-
-
-# <a name="apidoc.module.component"></a>[module component](#apidoc.module.component)
 
 
 
