@@ -1,7 +1,7 @@
 <svg height="3678" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="3678" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">34 megabytes installed</tspan>
+<tspan x="10" y="26">35 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
 <tspan x="10" y="74">└─┬ component@1.1.0 </tspan>
@@ -11,7 +11,7 @@
 <tspan x="10" y="138">  ├─┬ component-build@1.2.2 </tspan>
 <tspan x="10" y="154">  │ ├─┬ builder-autoprefixer@1.0.4 </tspan>
 <tspan x="10" y="170">  │ │ └─┬ autoprefixer-core@3.1.2 </tspan>
-<tspan x="10" y="186">  │ │   ├── caniuse-db@1.0.30000649 </tspan>
+<tspan x="10" y="186">  │ │   ├── caniuse-db@1.0.30000655 </tspan>
 <tspan x="10" y="202">  │ │   └─┬ postcss@2.2.6 </tspan>
 <tspan x="10" y="218">  │ │     ├── js-base64@2.1.9 </tspan>
 <tspan x="10" y="234">  │ │     └─┬ source-map@0.1.43 </tspan>
